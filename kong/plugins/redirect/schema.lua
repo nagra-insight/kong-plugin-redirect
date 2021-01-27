@@ -3,13 +3,12 @@ return {
     fields = {
         status_code = {
             type     = "number",
-            required = true,
-            default  = 301
+            required = false,
+            default  = 302
         },
         redirect_url = {
             type     = "string",
-            required = true,
-            default  = "https://github.com/domecloud/kong-plugin-redirect"
+            required = true
         }
     }
 }
