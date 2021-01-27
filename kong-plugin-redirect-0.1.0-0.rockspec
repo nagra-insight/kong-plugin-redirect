@@ -1,7 +1,7 @@
 package = "kong-plugin-redirect"
-version = "0.1.0"
+version = "0.1.0-0"
 source = {
-   url = "git+https://github.com/domecloud/kong-plugin-redirect"
+   url = "git+https://github.com/nagra-insight/kong-plugin-redirect"
 }
 description = {
    homepage = "Kong API Gateway middleware plugin for redirect purposes.",
