@@ -1,5 +1,5 @@
 package = "kong-plugin-redirect"
-version = "0.1.0"
+version = "0.2.0-0"
 source = {
    url = "git+https://github.com/domecloud/kong-plugin-redirect"
 }
